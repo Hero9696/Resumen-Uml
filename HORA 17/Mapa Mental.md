@@ -1,0 +1,22 @@
+- 🕐 Hora 17 - Modelado de Negocio
+  - 🎯 Objetivo
+    - Modelar procesos empresariales con UML
+  - 📐 Diagramas usados
+    - Casos de uso
+    - Actividades
+    - Clases (entidades de negocio)
+  - 🧠 Elementos clave
+    - Actores
+    - Procesos
+    - Artefactos
+    - Reglas de negocio
+  - 📋 Ejemplo
+    - Proceso de ventas:
+      - Solicitud
+      - Verificación
+      - Facturación
+      - Inventario
+  - 🧩 Ventajas
+    - Claridad de procesos
+    - Automatización
+    - Mejora organizacional

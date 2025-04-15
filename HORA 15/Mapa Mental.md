@@ -1,0 +1,17 @@
+- 🕐 Hora 15 - Diagramas de Despliegue
+  - 🎯 Objetivo
+    - Mostrar la arquitectura física del sistema
+    - Representar nodos, artefactos y conexiones
+  - 📌 Elementos clave
+    - Nodo (servidor, cliente, nube)
+    - Artefacto (software ejecutado)
+    - Asociación (conexión)
+  - 🔍 Diferencias
+    - Implementación = software
+    - Despliegue = infraestructura
+  - 📋 Ejemplo
+    - Cliente web → API → Base de datos → Almacenamiento en la nube
+  - 🧠 Usos
+    - Diseño de redes
+    - Arquitectura cloud
+    - Distribución de componentes físicos

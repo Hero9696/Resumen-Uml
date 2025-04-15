@@ -1,0 +1,21 @@
+- 🕐 Hora 12 - Diagramas de Estado
+  - 🎯 Objetivo
+    - Modelar comportamiento dinámico
+    - Mostrar estados y transiciones
+  - 📌 Conceptos
+    - Estado
+    - Transición
+    - Evento / Acción
+    - Estado inicial / final
+  - 📋 Ejemplo: Pedido
+    - Nuevo → Confirmado → Pagado → Enviado → Entregado
+    - Cancelado (transición desde cualquier estado)
+  - 📐 Notación
+    - Rectángulos redondeados
+    - Flechas con texto
+    - Punto negro (inicio)
+    - Círculo doble (fin)
+  - 🧠 Usos
+    - Ciclo de vida de objetos
+    - Validación de lógica de eventos
+    - Modelado de sistemas de control

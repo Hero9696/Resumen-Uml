@@ -1,0 +1,21 @@
+- 🕐 Hora 21 - UML en el Ciclo de Vida
+  - 🎯 Objetivo
+    - Aplicar UML en todas las etapas
+  - 🔁 Fases del ciclo
+    - Recolección de requisitos
+    - Análisis
+    - Diseño
+    - Implementación
+    - Pruebas
+    - Mantenimiento
+  - 📐 Diagramas por fase
+    - Casos de uso
+    - Clases
+    - Paquetes
+    - Actividades
+    - Componentes
+    - Secuencia
+  - 📋 Ventajas
+    - Continuidad
+    - Trazabilidad
+    - Documentación viva

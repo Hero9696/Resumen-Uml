@@ -1,0 +1,22 @@
+- 🕐 Hora 08 - Diagramas de Actividad
+  - 🎯 Objetivo
+    - Representar flujos de actividad o control
+    - Ideal para procesos con decisiones y ramificaciones
+  - 📌 Elementos clave
+    - Actividad
+    - Transición
+    - Nodo inicial / final
+    - Decisión (rombo)
+    - Concurrencia (líneas paralelas)
+  - 📋 Ejemplo simple
+    - Iniciar pedido
+    - Seleccionar producto
+    - Confirmar pago
+    - [Sí] Preparar envío
+    - [No] Mostrar error
+    - Enviar pedido
+  - 🧠 Usos
+    - Procesos de negocio
+    - Algoritmos
+    - Lógica de usuario
+    - Validación de decisiones

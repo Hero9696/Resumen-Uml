@@ -1,0 +1,19 @@
+- 🕐 Hora 19 - Requisitos del Sistema
+  - 🎯 Objetivo
+    - Capturar y representar requisitos
+  - 📋 Tipos
+    - Funcionales
+    - No funcionales
+  - 📐 Diagramas usados
+    - Casos de uso
+    - Clases
+    - Actividades / Secuencia
+  - 📌 Proceso
+    - Recolección
+    - Análisis y agrupación
+    - Representación UML
+    - Validación
+  - 🧩 Ventajas
+    - Claridad
+    - Documentación
+    - Base para pruebas

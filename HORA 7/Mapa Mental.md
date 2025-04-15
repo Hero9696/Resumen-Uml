@@ -1,0 +1,20 @@
+- 🕐 Hora 07 - Diagramas de Estado
+  - 🎯 Objetivo
+    - Mostrar el comportamiento de un objeto a lo largo del tiempo
+    - Representar estados, eventos y transiciones
+  - 📌 Elementos clave
+    - Estado
+    - Evento
+    - Transición
+    - Acción
+  - 🧰 Notación UML
+    - 🔵 Estado inicial (círculo negro)
+    - 🔚 Estado final (círculo doble)
+    - ➡️ Flechas = transiciones
+    - 🏷️ Etiqueta: evento [condición] / acción
+  - 📋 Ejemplo práctico
+    - Nuevo → Procesando → Enviado → Entregado
+  - 🧠 Usos
+    - Ciclos de vida (pedidos, sesiones)
+    - Interfaces gráficas
+    - Máquinas de estados

@@ -1,0 +1,16 @@
+- 🕐 Hora 14 - Diagramas de Implementación
+  - 🎯 Objetivo
+    - Mostrar la arquitectura física del sistema
+    - Visualizar nodos y componentes
+  - 📌 Elementos
+    - Nodo (servidores, dispositivos)
+    - Componente (lógica del sistema)
+    - Artefacto (archivo ejecutable, jar, dll)
+    - Asociación (conexión entre nodos)
+  - 📋 Ejemplo
+    - Cliente móvil → Servidor → Base de datos
+    - Componentes desplegados en contenedores
+  - 🧠 Usos
+    - Despliegue físico de sistemas
+    - Planificación de infraestructura
+    - Documentación técnica

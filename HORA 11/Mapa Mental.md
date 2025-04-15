@@ -1,0 +1,20 @@
+- 🕐 Hora 11 - Diagramas de Colaboración
+  - 🎯 Objetivo
+    - Mostrar cómo colaboran los objetos
+    - Representar estructura y comportamiento
+  - 📌 Conceptos
+    - Objetos
+    - Asociaciones (líneas)
+    - Mensajes numerados
+  - 🆚 Diferencias vs Secuencia
+    - Colaboración: foco en estructura
+    - Secuencia: foco en tiempo
+  - 📋 Ejemplo
+    - Usuario inicia pago
+    - Sistema valida
+    - Pasarela responde
+    - Usuario recibe confirmación
+  - 🧠 Usos
+    - Visualizar relaciones entre clases
+    - Mostrar arquitectura de colaboración
+    - Documentar interacciones distribuidas

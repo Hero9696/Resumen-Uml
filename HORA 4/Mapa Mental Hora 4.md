@@ -1,0 +1,31 @@
+- 🕐 Hora 04 - Diagrama de Clases
+  - 🎯 Objetivo
+    - Comprender el propósito de los diagramas de clases
+    - Representar objetos, atributos y métodos
+    - Modelar relaciones entre clases
+  - 📌 Componentes principales
+    - Clases
+      - Nombre
+      - Atributos
+      - Métodos
+    - Relaciones
+      - Asociación
+      - Herencia (Generalización)
+      - Agregación
+      - Composición
+      - Dependencia
+  - 🔤 Notación UML
+    - `+` público
+    - `-` privado
+    - `#` protegido
+  - 🧩 Ejemplo
+    - Clase Persona
+    - Clase Empleado extiende Persona
+    - Clase Empresa se relaciona con Persona
+  - 🔗 Conexión con otros diagramas
+    - Casos de uso (identifican clases)
+    - Diagrama de secuencia (uso de clases)
+  - 🧠 Aplicaciones
+    - Diseño orientado a objetos
+    - Modelado de software
+    - Reflejo del código en tiempo de

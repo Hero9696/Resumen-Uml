@@ -1,0 +1,21 @@
+- UML
+  - ¿Qué es?
+    - Lenguaje gráfico de modelado
+    - Describe sistemas orientados a objetos
+  - ¿Para qué sirve?
+    - Visualizar
+    - Especificar
+    - Construir
+    - Documentar
+  - Historia
+    - Booch
+    - Rumbaugh (OMT)
+    - Jacobson (OOSE)
+  - No es:
+    - Un lenguaje de programación
+    - Un método de desarrollo
+  - Diagramas mencionados
+    - Casos de uso
+    - Clases
+    - Secuencia
+    - Actividades

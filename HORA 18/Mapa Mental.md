@@ -1,0 +1,18 @@
+- 🕐 Hora 18 - Sistemas Legados
+  - 🎯 Objetivo
+    - Comprender y documentar sistemas existentes
+  - 🏚️ ¿Qué es un sistema legado?
+    - Antiguo, sin documentación
+    - Lenguajes obsoletos
+    - Difícil de mantener
+  - 🧠 Estrategia UML
+    - Análisis inverso
+    - Diagramas de clases, casos de uso, actividad
+    - Rediseño y mejora
+  - 🧩 Ventajas
+    - Entendimiento sin rehacer todo
+    - Facilita migración
+    - Reduce riesgos
+  - 📋 Herramientas
+    - PlantUML
+    - Repositorios de código

@@ -1,0 +1,17 @@
+- 🕐 Hora 22 - UML en el Mundo Real
+  - 🎯 Objetivo
+    - Aplicación en proyectos reales
+  - 📁 Casos comunes
+    - Grandes empresas
+    - Ágil y startups
+  - 📐 UML en metodologías
+    - RUP
+    - XP
+    - Scrum
+  - ✅ Buenas prácticas
+    - Modelos necesarios
+    - Actualización constante
+    - Documentación viva
+  - ⚠️ Errores comunes
+    - Documentos obsoletos
+    - Diagramas innecesarios

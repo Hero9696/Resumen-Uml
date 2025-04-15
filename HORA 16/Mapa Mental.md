@@ -1,0 +1,18 @@
+- 🕐 Hora 16 - UML en el Desarrollo de Software
+  - 🎯 Objetivo
+    - Integrar UML en el ciclo de vida del software
+  - 📌 Fases del desarrollo
+    - Requisitos → Casos de uso, actividad
+    - Análisis → Clases, interacción
+    - Diseño → Componentes, despliegue
+    - Implementación → Secuencia, colaboración
+    - Pruebas → Estado, actividad
+  - 🧠 Metodologías
+    - Iterativo / incremental (RUP, Scrum)
+    - Waterfall
+  - 🧩 Ventajas
+    - Mejor comunicación
+    - Documentación visual
+    - Trazabilidad
+  - 📋 Ejemplo
+    - Caso de uso → Actividad → Clases → Secuencia → Despliegue

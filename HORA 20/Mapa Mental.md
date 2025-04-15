@@ -1,0 +1,18 @@
+- 🕐 Hora 20 - Planificación y Estimación
+  - 🎯 Objetivo
+    - Apoyar planificación y estimación con UML
+  - 📐 Diagramas útiles
+    - Casos de uso
+    - Actividades
+    - Clases
+    - Componentes
+    - Paquetes
+  - 🧠 Estrategias
+    - Descomposición de funciones
+    - Estimación de esfuerzo
+    - Relación entre diagramas
+    - Cronograma
+  - 📋 Ventajas
+    - Mejor comunicación
+    - Mejor previsión
+    - Base para metodologías

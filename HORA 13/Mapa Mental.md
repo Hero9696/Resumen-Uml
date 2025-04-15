@@ -1,0 +1,19 @@
+- 🕐 Hora 13 - Diagramas de Actividad
+  - 🎯 Objetivo
+    - Modelar procesos o algoritmos
+    - Describir flujos de actividades
+  - 📌 Elementos clave
+    - Nodo inicial y final
+    - Actividades
+    - Decisiones (diamantes)
+    - Transiciones (flechas)
+    - Bucles y condiciones
+  - 📋 Ejemplo: Publicación artículo
+    - Escribir → Revisar
+    - Decisión: ¿Aprobado?
+      - Sí → Publicar
+      - No → Editar y regresar
+  - 🧠 Usos
+    - Procesos de negocio
+    - Lógica condicional de software
+    - Validación de decisiones

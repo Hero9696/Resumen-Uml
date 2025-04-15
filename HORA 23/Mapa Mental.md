@@ -1,0 +1,19 @@
+- 🕐 Hora 23 - UML y Arquitectura
+  - 🎯 Objetivo
+    - Representar la arquitectura del software
+  - 🧱 ¿Qué es arquitectura?
+    - Estructura general
+    - Capas, decisiones técnicas
+  - 🧩 Diagramas clave
+    - Componentes
+    - Paquetes
+    - Despliegue
+    - Clases arquitectónicas
+  - 🛠️ Principios
+    - Separación de responsabilidades
+    - Bajo acoplamiento
+    - Escalabilidad
+  - ✅ Beneficios
+    - Visualización de dependencias
+    - Comunicación clara
+    - División de tareas

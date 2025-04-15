@@ -1,0 +1,18 @@
+- 🕐 Hora 09 - Diagramas de Caso de Uso
+  - 🎯 Objetivo
+    - Mostrar interacciones entre actores y sistema
+    - Representar requerimientos funcionales
+  - 👥 Elementos clave
+    - Actor (persona o sistema externo)
+    - Caso de uso (acción)
+    - Sistema (caja)
+    - Relaciones
+      - include
+      - extend
+  - 📋 Ejemplo
+    - Cliente: buscar, comprar, pagar
+    - Administrador: gestionar catálogo, ver reportes
+  - 🧠 Usos
+    - Requisitos funcionales
+    - Comunicación con el cliente
+    - Base para pruebas o diseño
